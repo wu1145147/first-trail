@@ -1,0 +1,1 @@
+the second trail to find why git can commit the precise file
